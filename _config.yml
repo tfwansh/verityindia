@@ -21,17 +21,17 @@
 title: It's a BLOG!
 email: mailanshjaiswal@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  it's a BLOG! I'll be posting stuff here, mostly rants... don't know why y'all be interested.
+  it's a BLOG! I'll be posting stuff here, mostly rants... don't know why y'all will be interested.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://verityindia.tech" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: anshjaiswal_org
+twitter_username: z0br1s7
 github_username:  z0br1s7
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-
+  
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

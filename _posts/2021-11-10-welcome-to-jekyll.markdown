@@ -1,29 +1,29 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Chapter 2: A whole new World"
 date:   2021-11-10 10:17:34 +0530
-categories: jekyll update
+categories: chapter2 update 
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+`$ Hello friend...`
 
-Jekyll requires blog post files to be named according to the following format:
+`# Seriously? Another cliche "a nEw WuRlD BS?`  
+`$ Just Something Different...`
 
-`YEAR-MONTH-DAY-title.MARKUP`
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+`# But why Different?`  
+`$ Cause it's better?`
 
-Jekyll also offers powerful support for code snippets:
+`# Are you sure? What IS better?`  
+`$ Anything but this`
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+`# HUH?`  
+`$ I don't know ... WHY can't I have it?`
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+`# ...`  
+`$ WHaT?`
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+`# su z0br1s7` 
+
+ 
+`$ Alright, let's do this, i guess?`
+

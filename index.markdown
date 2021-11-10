@@ -5,4 +5,7 @@
 layout: home
 ---
 
-Site's under construction... cause we're going LIVE BACK AGAIN comRADES! stay tuned...!
+Fellow Netizen,
+
+Your host for the evening, none but z0br1s7 is *LIVE* **BACK AGAIN** at [verityindia.tech](https://verityindia.tech), we'll watch this journey with great interest...
+
