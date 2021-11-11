@@ -6,12 +6,15 @@ categories: chapter2 update
 ---
 `$ Hello friend...`
 
-`# Seriously? Another cliche "a nEw WuRlD BS?`  
+`# Seriously? Another cliche "a nEw WuRlD" BS?` 
+`$ Hmmm...`
+
+`# "NEW" what?` 
 `$ Just Something Different...`
 
 
 `# But why Different?`  
-`$ Cause it's better?`
+`$ Cause it's better? I believe...`
 
 `# Are you sure? What IS better?`  
 `$ Anything but this`
@@ -25,7 +28,7 @@ categories: chapter2 update
 `# su z0br1s7` 
 
  
-`$ Alright, let's do this, i guess?`
+`$ Alright, let's do this, then?`
 
 ### Hi all,
 
@@ -35,7 +38,7 @@ Anyways, as the title says, it's just a blog(this is like the fifth time I have 
 
 Why I am I using `verityindia.tech` now? What does the term even mean?... *SHIT I DON'T KNOW!* I got this for free too, from a good friend and I'll be using this till next year August or something and then shifting to a permanent domain, and I will(hopefully) be able to pay for it, cause I'll be finally allowed to get a job after hitting that legal age. ANNDD, I KNOW!... this is a bad practise, shifting domains every once in a while, sometimes to totally UNRELATED names, cause **POINT 1:**I'll be ruining whatever traffic of 2 people I was getting, and **POINT 2:** The name has absolutely NO relation with the content. Please forgive me for this, just a few more months, I mean look at it... It was the March of 2020 just yesterday and there is like 50 more days to 2022(DAMN)... and anyways, I am not looking forward to drive ANY traffic towards the site for the timing anyways.
 
-Anything else? I think that's pretty much it, this was all `About` this website, and the blog(this is literally the sixth time), and... what to expect.
+Anything else? I think that's pretty much it, this was all about this website, and the blog(this is literally the sixth time), and... what to expect.
 
 Thanks for the visit, I really appreciate it...
 Have a good day!
