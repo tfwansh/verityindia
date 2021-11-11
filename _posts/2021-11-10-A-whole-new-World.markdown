@@ -9,7 +9,7 @@ categories: chapter2 update
 `# Seriously? Another cliche "a nEw WuRlD" BS?` 
 `$ Hmmm...`
 
-`# "NEW" what?` 
+`# "NEW" what?`   
 `$ Just Something Different...`
 
 
