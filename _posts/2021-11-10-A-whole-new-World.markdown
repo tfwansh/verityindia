@@ -6,7 +6,7 @@ categories: chapter2 update
 ---
 `$ Hello friend...`
 
-`# Seriously? Another cliche "a nEw WuRlD" BS?` 
+`# Seriously? Another cliche "a nEw WuRlD" BS?`   
 `$ Hmmm...`
 
 `# "NEW" what?`   
