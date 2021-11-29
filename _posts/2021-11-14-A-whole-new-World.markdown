@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Act 2 Chapter 0: A whole new World"
-date:   2021-11-10 10:17:34 +0530
+title:  "Act 2 Prelude: A whole new World"
+date:   2021-11-14 10:17:34 +0530
 categories: act2 chapter0
 ---
-`$ Hello friend...`
+
+---
+`$ Hello, you there?`
 
 `# Seriously? Another cliche "a nEw WuRlD" BS?`   
 `$ Hmmm...`
@@ -25,11 +27,7 @@ categories: act2 chapter0
 `# ...`  
 `$ WHaT?`
 
-`# su z0br1s7` 
-
- 
-`$ Alright, let's do this, then?`
-
+---
 ### Hi all,
 
 This site was created taking into consideration the thought that it was high time I started a blog and just START putting out stuff. I have loads of ideas on what to do with this website, like so many ideas that my giga brain just couldn't handle it's own load and forgot about all of them. This is the primary reason I have no idea what I am looking forward to do with this site. Another factor being ... I have **exams**, a lot of them, I just won't find any time till next year(2022) May-August to implement any major changes. The fact that I am typing this out rn instead of hitting the books, just says I am not getting much sleep tonight cause I will have to compensate for the lost time.
