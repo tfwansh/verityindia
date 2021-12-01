@@ -7,5 +7,4 @@ layout: home
 
 Fellow Netizen,
 
-Your host for the evening, none but z0br1s7 is *LIVE* **BACK AGAIN** at [verityindia.tech](https://verityindia.tech), we'll watch this journey with great interest...
-
+Your host for the evening, none but z0br1s7 is *LIVE* **BACK AGAIN** at [verityindia.tech](https://verityindia.tech), although this time he doesn't really look sane... uhm, well who cares?! sit back, relax and whatever else they say at the beginning of every event as such ... this is a journey, we shall be watching, with great interest!

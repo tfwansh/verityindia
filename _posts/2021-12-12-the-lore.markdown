@@ -1,7 +1,7 @@
 --- 
 layout: post
 title:  "A2 C4: The Lore"
-date:   2021-11-29 12:00:01 +0530
+date:   2021-12-12 12:00:00 +0530
 categories: act2 chapter4
 ---
 ### The man, the myth, the legend... the lore of the none but z0br1s7, what IS Act 1?
